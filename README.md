@@ -1,13 +1,12 @@
-# 🌸 Hey there, I’m so glad you’re here!  
+# Welcome to my little corner of GitHub!  
 
-Welcome to my little corner of GitHub!  
 I’m **Sumit Bhagat**, an aspiring **Data Analyst** currently pursuing my B.Voc in Software Development (2023–2026).  
-I’m passionate about turning raw data into meaningful insights, solving business problems with data, and continuously growing my technical skills. 📊✨  
+I’m passionate about turning raw data into meaningful insights, solving business problems with data, and continuously growing my technical skills.  
 
 Here, you'll find:  
-- 🛠️ Projects where I apply **data analytics, SQL, and visualization skills**  
-- 📚 Things I’ve learned while exploring Python, databases, and BI tools  
-- 🌱 Inspiration and resources for anyone building their journey in **data analytics**  
+-  Projects where I apply **data analytics, SQL, and visualization skills**  
+-  Things I’ve learned while exploring Python, databases, and BI tools  
+-  Inspiration and resources for anyone building their journey in **data analytics**  
 
 Whether you're here to explore projects, learn something new, or just connect with a fellow data enthusiast—you’re in the right place! 🫶  
 
