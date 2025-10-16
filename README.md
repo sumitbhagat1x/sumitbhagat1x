@@ -1,4 +1,4 @@
-## 👋 Welcome to my little corner of GitHub!  
+## 👋 Welcome to my GitHub profile!  
 
 I’m **Sumit Bhagat**, an aspiring **Data Analyst** currently pursuing my B.Voc in Software Development (2023–2026).  
 I’m passionate about turning raw data into meaningful insights, solving business problems with data, and continuously growing my technical skills.  
