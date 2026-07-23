@@ -14,13 +14,6 @@ A Data Analyst with 8 months of experience, currently working as an MIS Executiv
 
 - ⚡ Fun fact: **I love watching sunsets—they never get old. 🌅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumitbhagatofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitbhagatofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/sumiit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumiit_bhagat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thesumit73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesumit73" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
@@ -53,3 +46,10 @@ A Data Analyst with 8 months of experience, currently working as an MIS Executiv
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbhagat1x&" alt="sumitbhagat1x" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sumitbhagatofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitbhagatofficial" height="30" width="40" /></a> &nbsp;
+<a href="https://instagram.com/sumiit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumiit_bhagat" height="30" width="40" /></a> &nbsp;
+<a href="https://www.hackerrank.com/thesumit73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesumit73" height="30" width="40" /></a>
+</p>
