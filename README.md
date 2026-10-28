@@ -2,7 +2,7 @@
 
 
 <P align="left">
-A Data Analyst with 8 months of experience, currently working as an MIS Executive and continuously learning new tools to grow in the field of data analytics.
+Data professional with 11 months of total experience, including 8 months as a Data Analyst and currently working as an MIS Executive, continuously developing skills in data analytics and business intelligence tools.
 </P>
 
 
